@@ -7,7 +7,7 @@ var config = {
 
 var source = {
   dash: 'https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/mpds/11331.mpd',
-  hls: 'https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/m3u8s/11331.m3u8',
+  hls: 'http://forcestrem.com:2082/saulo982477615/982477615/58961.m3u8',
   smooth: 'https://test.playready.microsoft.com/smoothstreaming/SSWSS720H264/SuperSpeedway_720.ism/manifest',
   drm: {
     widevine: {
